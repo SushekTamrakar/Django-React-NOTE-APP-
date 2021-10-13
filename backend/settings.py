@@ -30,8 +30,7 @@ DEBUG = True
 #CSRF_COOKIE_SECURE = False
 #SECURE_SSL_REDIRECT = False
 
-ALLOWED_HOSTS = ['notes.pandamotions.com',
-                 'http://notes.pandamotions.com/', 'https://notes.pandamotions.com/', 'www.notes.pandamotions.com']
+ALLOWED_HOSTS = ['http://notes.pandamotions.com/']
 
 
 # Application definition
